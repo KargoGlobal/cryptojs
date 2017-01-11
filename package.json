@@ -1,0 +1,9 @@
+{
+  "name": "cryptojslib",
+  "version": "0.0.0",
+  "description": "CryptoJS",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
